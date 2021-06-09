@@ -95,5 +95,14 @@ section{
         width: 100%;
         overflow: block;
         width: fit-content;
+        
     }
+}
+@media screen and (max-width: 1200px) {
+
+.single-experience{
+    height: 80%;
+}
+
+
 }
