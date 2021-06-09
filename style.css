@@ -89,7 +89,7 @@ section{
    text-align: center;
     color: tomato;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1200px) {
   
     .half-width {
         width: 100%;
